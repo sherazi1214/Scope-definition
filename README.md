@@ -14,7 +14,7 @@
 
 ### Frameworks
 
-**English:** Frameworks are structured guidelines or best practices jo organizations ko follow karne ka tariqa dete hain. Ye law nahi hote, lekin industry standard hote hain.
+**English:** Frameworks are structured guidelines or best practices that provide organizations with a method to implement security or privacy. They are not laws, but are widely accepted as industry standards.
 
 **Urdu:** Framework ek guideline ka set hota hai jo batata hai ke security ya privacy implement karni hai to kaise karni hai. Ye enforceable nahi hote like law, lekin best practice ke taur pe use hote hain.
 
