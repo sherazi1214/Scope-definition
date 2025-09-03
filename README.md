@@ -1,6 +1,6 @@
 # Scope (Definition)
 
-**English:** Scope means kis cheez ka coverage ya boundary define karna – yani kis area, process, ya system ko include karna hai aur kis cheez ko exclude karna hai.
+**English:** Scope means defining the coverage or boundary – that is, which areas, processes, or systems are included and which ones are excluded.
 
 **Urdu:** Scope ka matlab hota hai ke hum specify karen ke kis limit tak humari policy, regulation ya security apply hoti hai aur kahaan tak nahi hoti.
 
